@@ -5,6 +5,9 @@
 Generative001.ipynb :
 Basic downloading and randomised cutting using youtube-dl and movie.py
 
+Generative002.ipynb :
+Concatenating all films in a directory
+
 --------------------------------------------------------
 
 Dancing knight.ipynb :
